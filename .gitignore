@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vscode/
+app/README.md
+app/ui/README.md
+configs-README.md
+public/README.md
+private-README.md
+app/ui/fonts-README.md
